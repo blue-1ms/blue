@@ -1,2 +1,3 @@
-# blue
-new domain cname for IONOS
+# bluexguardian.com
+small portfolio/blog written in html + js
+ update
