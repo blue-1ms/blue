@@ -35,31 +35,11 @@ a{
     text-decoration: none;
 }
 
-.interesting{
-    position: relative;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin: 10px auto;
-    min-height: 20vh;
-    font-family: 'Inconsolata';
-    font-size: 30px;
-    text-decoration: none;
-}
 
 
 
-#content{
-    text-align: center;
-    position: relative;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin: 0px auto;
-    min-height: 10vh;
-    font-family: 'Inconsolata';
-    text-decoration: none;
-}
+
+
 
 .contentleft{
     background: black;
@@ -69,10 +49,6 @@ a{
     width: 70%;
 }
 
-.contentcenter{
-    float: center;
-    margin: auto;
-}
 
 .contentright{
     background-color: black;
