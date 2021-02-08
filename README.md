@@ -1,2 +1,0 @@
-# bluexguardian.com
-

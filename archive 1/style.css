@@ -1,0 +1,110 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: auto;
+    background: cyan;
+}
+
+.logo{
+    margin: 0;
+	padding: 10px;
+	font-weight: 700;
+    font-size: 1em;
+    font-family: 'Libre Barcode 128';
+    font-size: 50px;
+    text-decoration: none;
+}
+
+.logo a{
+    color: blue;
+    text-decoration: none;
+}
+
+.logo a:hover{
+    color: yellow;
+}
+
+.index{
+    position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 10px auto;
+    min-height: 60vh;
+    font-family: 'Inconsolata';
+    font-size: 30px;
+    text-decoration: none
+}
+
+.index a{ 
+   color: blue;
+}
+
+.index a:hover{ 
+    color: yellow;
+ }
+
+
+.footer{
+	background: rgba(0, 0, 0);
+    position: fixed;
+    left: 0;
+    bottom: 0;  
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-family: 'Inconsolata';
+  } 
+
+.footer a {
+    color: yellow;
+    text-decoration: none;
+
+}
+
+.footer a:hover {
+    color: blue;
+    text-decoration: none;
+
+}
+
+.titletext{
+    position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 10px auto;
+    min-height: 20vh;
+    font-family: 'Inconsolata';
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.blue{
+    background: black;
+    color: white    ;
+    text-align: center;
+    position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0px auto;
+    min-height: 10vh;
+    font-family: 'Inconsolata';
+    text-decoration: none;
+    float: center;
+    margin: auto;
+}
+
+.blue a{
+    color: yellow;
+    font-size: 20px;
+}
+
+.blue a:hover{
+    color: blue;
+}
