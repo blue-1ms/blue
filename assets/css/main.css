@@ -930,9 +930,8 @@ body.is-loading-1 #main {
 
 #header {
   padding: 3em 2.25em 1.75em 2.25em;
-
   /* border: 1px solid red; */
-  background-color: #0097fc;
+  background-image: url('blue.JPG');
   color: rgb(0, 0, 0);
 }
 
